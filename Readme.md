@@ -12,3 +12,5 @@
     > git status
 - commitolás
     > git commit -m "first commit"
+- commitok listázása
+    > git log
